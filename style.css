@@ -1,0 +1,14 @@
+#navigation {
+	position: absolute;
+	width: 200px;
+	margin: 30px 10px 10px 50px;
+	overflow: auto;
+	left: 0px;
+}
+#content {
+	position: absolute;
+	width: 100%;
+	margin-left: 220px;
+	margin-top: 30px;
+	text-align: left;
+}
